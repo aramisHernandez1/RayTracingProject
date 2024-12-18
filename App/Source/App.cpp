@@ -25,4 +25,6 @@ int main() {
             std::cout << ir << ' ' << ig << ' ' << ib << '\n';
         }
     }
+
+    std::clog << "\rDone.\n";
 }
